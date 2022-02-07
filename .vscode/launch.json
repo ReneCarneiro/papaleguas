@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PapaleguasApplication<papaleguas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tdorea.papaleguas.PapaleguasApplication",
+            "projectName": "papaleguas",
+            "args": ""
+        }
+    ]
+}
