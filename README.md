@@ -79,7 +79,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ### :sparkles: Começando
 #### Clone este repositório
 ~~~~ 
-git clone https://github.com/thiagodorea/papaleguas.git
+git clone https://github.com/ReneCarneiro/papaleguas.git
 ~~~~
 
 #### Instale as dependências
